@@ -1,16 +1,11 @@
-### Hi there 👋
+## Hey, Welcome! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="29px"> 
 
-<!--
-**pmateosx/pmateosx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+// who am I?
+const Pablo = {
+    description: "I'm an Art Director upgraded to full stack",
+    code: [Javascript, HTML, CSS, SASS],
+    tools: [Node, Express, MondoDB]
+}
+```
+<p>... oh! And feel free to check my works 😉</p>
