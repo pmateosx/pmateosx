@@ -8,4 +8,4 @@ const Pablo = {
     tools: [Node, Express, MondoDB]
 }
 ```
-<p>... oh! And feel free to check my works 😉</p>
+<p>... oh! And feel free to checkmy projects 😉</p>
