@@ -4,8 +4,8 @@
 // who am I?
 const Pablo = {
     description: "I'm an Art Director upgraded to full stack",
-    code: [Javascript, HTML, CSS, SASS],
-    tools: [Node, Express, MondoDB]
+    code: [Javascript, HTML, CSS, SASS, HBS],
+    tools: [Node, Express, MondoDB, React]
 }
 ```
 <p>... oh! And feel free to check my projects 😉</p>
