@@ -5,7 +5,7 @@
 const Pablo = {
     description: "I'm an Art Director upgraded to full stack",
     code: [Javascript, HTML, CSS, SASS, HBS, JSX],
-    tools: [Node, Express, MondoDB, React]
+    tools: [Node, Express, MondoDB, React, Nextjs]
 }
 ```
 <p>... oh! feel free to check my projects 😉</p>
