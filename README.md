@@ -1,4 +1,4 @@
-## Hey, Welcome! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="29"> 
+## Hey, Welcome! 👋 
 
 ```javascript
 // who am I?
