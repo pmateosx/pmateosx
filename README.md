@@ -3,9 +3,9 @@
 ```javascript
 // who am I?
 const Pablo = {
-    description: "I'm an Art Director upgraded to full stack",
-    code: [Javascript, HTML, CSS, SASS, HBS, JSX],
-    tools: [Node, Express, MongoDB, React, Nextjs]
+    description: "Creative and passionate about anything that runs code",
+    code: [Javascript, Typescript, PHP, HTML, CSS, SASS, HBS],
+    tools: [Node, Express, MongoDB, SQL, Docker, React, Nextjs, Jest, Laravel, Vue.js]
 }
 ```
 <p>... oh! feel free to check my projects 😉</p>
