@@ -8,4 +8,4 @@ const Pablo = {
     tools: [Node, Express, MongoDB, SQL, Docker, React, Nextjs, Jest, Laravel, Vue.js]
 }
 ```
-<p>... oh! feel free to check my projects 😉</p>
+<p>Feel free to check my projects 😉</p>
