@@ -1,4 +1,4 @@
-## Hey, Welcome! 👋 
+<h1 align="center">Hey, Welcome! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="waving hand" width="30px"></h1>
 
 ```javascript
 // who am I?
